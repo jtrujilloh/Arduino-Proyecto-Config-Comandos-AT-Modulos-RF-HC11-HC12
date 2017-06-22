@@ -1,0 +1,8 @@
+Aliexpress:
+
+http://es.aliexpress.com/store/product/HC-12-SI4463-Wireless-Microcontroller-Serial-Port-Module-433-Long-Distance-1000M/610196_2019045738.html?spm=2114.04010208.3.2.cwl74s&ws_ab_test=searchweb201556_10,searchweb201602_1_10017_10005_10006_10034_10021_507_10022_10020_10018_10019,searchweb201603_2&btsid=105dad39-f543-4d68-addd-c7e59b4644e7
+http://www.banggood.com/es/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-With-Antenna-p-973522.html
+
+Comandos AT:
+http://blascarr.com/serial-at-commands-con-arduino/
+http://panamahitek.com/transceiver-de-433mhz-arduino-y-c/
